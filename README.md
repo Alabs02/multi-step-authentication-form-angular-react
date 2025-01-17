@@ -68,7 +68,7 @@ The goal of this task is to evaluate your ability to structure a codebase, creat
 3. Include a **README** file in each repository explaining:  
    - How to set up and run the project locally.  
    - Your approach to structuring and developing the task.  
-4. Share the repository links via email: **[hr@example.com]**.  
+4. Share the repository links via email: **[ooladele@sbsc.com]**.  
 
 ---
 
